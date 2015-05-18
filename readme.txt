@@ -3,3 +3,4 @@ Git is free software
 git apend GPL
 git 4th try
 Git tracks changes
+Git has 
