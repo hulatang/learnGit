@@ -5,3 +5,4 @@ git 4th try
 Git tracks changes
 Git has 
 boss is stupid
+git remote set up
